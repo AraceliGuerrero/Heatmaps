@@ -23,6 +23,7 @@
 #self organizing maps
 
 
+# Modificación de comentarios por L. Araceli Guerrero Herrera (ZuRy)
 
 library(pheatmap)
 library(heatmaply)
